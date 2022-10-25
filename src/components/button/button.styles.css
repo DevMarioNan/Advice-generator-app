@@ -1,0 +1,16 @@
+.button-div{
+    margin-top: -23px;
+    z-index: 2;
+}
+.button-div button{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    background-color: hsl(150, 100%, 66%);
+    cursor: pointer;
+    border: none;
+}
+
+.button-div button:hover{
+    box-shadow: 0 0 30px 20px hsl(150, 100%, 66%);
+}
