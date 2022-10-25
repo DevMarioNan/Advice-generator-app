@@ -76,7 +76,7 @@ After passing the function i used the fetch api to make a call to the api and th
 
 ### Continued development
 
-- View the optimal layout for the app depending on their device's screen size
+- ~~ View the optimal layout for the app depending on their device's screen size ~~
 - Adding animation to the site
 
 ### Useful resources
