@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My own solution code on github](https://github.com/DevMarioNan/Advice-generator-app.git)
-- Live Site URL: [Live site at vercel](https://advice-generator-app-gold-eight.vercel.app)
+- Live Site URL: [Live site at vercel](https://advice-generator-app-snowy.vercel.app)
 
 ## My process
 
