@@ -10,7 +10,11 @@ const MainContainer = ({advice,id}) => {
             <p className="advice">
                 "{advice}"
             </p>
-            <img src={divider} alt="" className="divider" />
+            <div className="divider" style={{
+                backgroundImage: `url(${divider})`
+            }}>
+            </div>
+            
         </div>
     );
 }

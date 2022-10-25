@@ -2,7 +2,7 @@ import { useState } from 'react';
 import MainContainer from './components/main-container/main-container.component';
 import './App.css';
 import Button from './components/button/button.component';
-
+import './responsive.css'
 
 function App() {
   const [advice,setAdvice] = useState('Please click the new advice button');
